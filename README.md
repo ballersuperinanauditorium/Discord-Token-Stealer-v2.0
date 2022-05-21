@@ -17,3 +17,5 @@ Go to Discord, and create a fresh, new, server:
 Create a webhook within the general channel and copy the wehook url:
 
 <img src='Screenshots/Webhook.png'>
+
+You can customize the webhook within the script, or in Discord itself.
