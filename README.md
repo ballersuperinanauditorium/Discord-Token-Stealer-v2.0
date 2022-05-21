@@ -12,4 +12,8 @@ This is an updated version of the old token stealer I had created almost a year 
 
 Go to Discord, and create a fresh, new, server:
 
-![](Screenshots/Create Server.png) 
+<img src='Screenshots/Create Server.png'>
+
+Create a webhook within the general channel and copy the wehook url:
+
+<img src='Screenshots/Webhook.png'>
