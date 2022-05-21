@@ -11,3 +11,5 @@ This is an updated version of the old token stealer I had created almost a year 
 ## Setup
 
 Go to Discord, and create a fresh, new, server:
+
+![](Screenshots/Create Server.png) 
