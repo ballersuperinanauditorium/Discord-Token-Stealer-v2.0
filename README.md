@@ -1,3 +1,7 @@
+
+
+# ⚠️ I am not responsible for the actions you do with this script, this is for educational purposes only.
+
 # Discord Token Stealer
 
 This is an updated version of the old token stealer I had created almost a year ago. 
